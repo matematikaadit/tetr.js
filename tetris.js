@@ -375,7 +375,7 @@ function init(gt) {
     gametype = gt;
   }
 
-  lineLimit = 80;
+  lineLimit = 56; // the number of clears when doing standard https://tetris.wiki/Playing_forever
 
   //Reset
   column = 0;
